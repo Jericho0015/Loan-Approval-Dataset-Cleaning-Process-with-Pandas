@@ -19,8 +19,6 @@ The dataset includes information about applicants and loan decisions.
 | Loan Information | Loan Amount, Term, Credit History |
 | Target Variable | Loan Approval Status |
 
-**Rows:** 614  
-**Columns:** 13  
 
 ---
 
@@ -56,3 +54,16 @@ The cleaned dataset:
 - Ready for **EDA**, **visualizations**, or building a **loan approval prediction model**
 
 The cleaned dataset was exported as:
+
+---
+
+## 🧰 Technologies Used
+| Tool | Purpose |
+|------|---------|
+| **Python** | Programming |
+| **Pandas** | Data cleaning and preprocessing |
+| **Jupyter Notebook / Colab** | Development environment |
+
+
+### ⭐ If this repository is helpful, consider giving it a star!
+
