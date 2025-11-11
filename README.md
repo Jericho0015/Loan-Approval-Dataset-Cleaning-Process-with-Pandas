@@ -1,6 +1,7 @@
 # Data Cleaning Pipeline using Pandas (Loan Approval Dataset)
 
-This project demonstrates how to clean and preprocess a loan approval dataset using **Pandas**. The goal is to transform raw input data into a structured and reliable form ready for analysis or machine learning.
+
+A professional data cleaning workflow using Pandas. This project demonstrates how to handle missing values, categorical normalization, numeric outliers, and dataset export for further modeling or analysis.
 
 Data cleaning is a fundamental step in any data project. This pipeline handles:
 - Missing values
